@@ -1,6 +1,23 @@
-- name: "Participant information coming soon." # Replace with participant name.
- # image: /assets/images/placeholderPic.png  # Add participant image to assets/images/ and update here.
-  # bio: " ... "  # Add participant bio here.
-  # website: https://www.google.com  # Link participant website here.
+- name: "Jocelyn L. Brown, Ph.D."
+  bio: "Assistant Professor and Director of African American Studies at Radford University; a social gerontologist studying health disparities, racial capitalism, and inequality across the African American life course."
 
-# Add more participants with the same format as above...
+- name: "Torri Hayslett"
+  bio: "Assessment Director and Ph.D. candidate at the University of the District of Columbia, with more than 20 years in K-12 and higher education focused on STEM access and educational equity."
+
+- name: "Richard C. Kalunga, Ph.D."
+  bio: "Academic Coordinator of the Speech-Language Pathology Program at the University of the District of Columbia, working at the intersection of technology, healthcare, and education."
+
+- name: "Hoan \"Lana\" La"
+  bio: "Ph.D. candidate in Political Science at Texas Tech University studying international security, statecraft, and public opinion using quantitative and experimental methods."
+
+- name: "Ruiqian \"Richie\" Li"
+  bio: "Researcher at PERIL, American University, focused on understanding and preventing violent extremism using survey methods, natural language processing, and network analysis."
+
+- name: "Mohamed Salama"
+  bio: "Ph.D. candidate at the University of Maryland's Philip Merrill College of Journalism and a Fulbright Scholar applying natural language processing and machine learning to journalism history."
+
+- name: "Helya Sehat"
+  bio: "Ph.D. student in Planning, Governance, and Globalization at Virginia Tech studying food systems governance, spatial justice, and community engagement."
+
+- name: "Qiyang Zhang, Ph.D."
+  bio: "Assistant Professor at Singapore Management University and a quantitative educational researcher focused on enhancing social-emotional learning outcomes through technology."
