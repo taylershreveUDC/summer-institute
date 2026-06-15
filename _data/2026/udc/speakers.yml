@@ -1,4 +1,29 @@
-- name: "Speaker information coming soon." # Speaker name goes here.
- # image: /assets/images/placeholderPic.png  # Upload speaker image to /assets/images/ and update URL here.
-  # bio: " ... " # add speaker bio here
-  # website: https://www.google.com # update speaker personal link here
+- name: "Dr. Christopher Bail"
+  bio: "Co-Founder of SICSS and Professor of Sociology, Political Science, and Public Policy at Duke University, where he directs the Polarization Lab. His research examines political polarization, culture, and social psychology using computational social science."
+  website: https://scholars.duke.edu/person/christopher.bail
+
+- name: "Dr. Marlon Mejias"
+  bio: "Assistant Professor in the Department of Software and Information Systems at UNC Charlotte. His research spans socio-technical systems, educational technology, and human-computer interaction, with a focus on broadening participation in computing."
+  website: https://cci.charlotte.edu/directory/marlon-mejias/
+
+- name: "Dr. AJ Alvero"
+  bio: "A computational sociologist at Cornell University studying education, culture, language, and stratification, as well as the social dimensions of AI and big data."
+  website: https://sociology.cornell.edu/aj-alvero
+
+- name: "Dr. Sarah Shugars"
+  bio: "Assistant Professor of Communication at Rutgers University. Their work brings together computational social science and deliberative democracy to study how people talk about and shape public life."
+  website: https://sci.rutgers.edu/shugars-sarah
+
+- name: "Prof. Doug Wolfire"
+  bio: "Faculty at Penn State University, joining the institute for a conversation on the logic of AI."
+
+- name: "Prof. Anthony Mazza"
+  bio: "Associate Professor and Graduate Program Director of the M.S. in Homeland Security Studies at the University of the District of Columbia, where he leads the University's AI Laboratory. A New York-licensed attorney with expertise in business process design and IT operations."
+  website: https://www.udc.edu/directory/profiles/cas/anthony-mazza
+
+- name: "Ben Rochford"
+  bio: "Ph.D. student in Sociology at Duke University's Polarization Lab, using computational approaches to study online communities, social AI, identity, and culture."
+  website: https://scholars.duke.edu/person/ben.rochford
+
+- name: "Dr. Allison Koenecke"
+  bio: "Assistant Professor of Information Science at Cornell University whose research examines algorithmic bias and disparities in automated systems, including speech recognition."
